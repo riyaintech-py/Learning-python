@@ -11,5 +11,7 @@ BSCS Student @ UoPeople | Aspiring AI Engineer
 ## My Goal
 Learn Python daily and get an AI internship in next 6 months.
 
-## Today's Code
-File: day1.py# Learning-python
+### 💻 Today's Code
+```python
+print("Hello, I am Riya")
+```

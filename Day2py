@@ -1,0 +1,16 @@
+# Day 2 - Learning Variables
+# Variables are like boxes to store data
+
+name = "Riya"
+age = 19
+course = "BSCS"
+goal = "AI Engineer"
+
+print(name)
+print(age)
+print(course)
+print(goal)
+
+# Updating variable value
+name = "Riya - Aspiring AI Engineer"
+print(name)

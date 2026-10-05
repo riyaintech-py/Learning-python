@@ -1,0 +1,27 @@
+# Day 3 - Data Types
+# In Python, we have different types of data
+
+# 1. String - for text
+name = "Riya"
+print(name)
+print(type(name))
+
+# 2. Integer - for whole numbers
+age = 19
+print(age)
+print(type(age))
+
+# 3. Float - for decimal numbers
+cgpa = 3.8
+print(cgpa)
+print(type(cgpa))
+
+# 4. Boolean - for True / False
+is_learning = True
+print(is_learning)
+print(type(is_learning))
+
+# 5. List - for multiple values
+skills = ["Python", "AI", "GitHub"]
+print(skills)
+print(type(skills))
